@@ -5,3 +5,4 @@ INSERT INTO producttbl(productName, cost, makeDate, company, amount) VALUES('냉
 INSERT INTO producttbl(productName, cost, makeDate, company, amount) VALUES('컴퓨터',20,'2020-03-01','LG',3);
 
 INSERT INTO producttbl(productName, cost, makeDate, company, amount) VALUES('모니터',5,'2021-09-01','롯데',22);
+
